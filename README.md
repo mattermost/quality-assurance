@@ -1,3 +1,5 @@
+To be edited/updated from [doc](https://docs.google.com/document/d/1V4bWfYMcF7FdBa8hc96QFXaFjFvkVHoimnMEvughEgE/edit#heading=h.641vvh8p93n) once complete 
+
 A place for like-minded quality assurance people to come together to help test Mattermost’s software.
 If you like breaking software, have a keen eye for UI-related bugs and want to help report your findings, here’s how you can join our testing community. You can find help and more information in the following places:
 
