@@ -11,14 +11,12 @@ There are a few ways the community can get involved with testing:
 
 Exploratory testing
 This is where testers explore the software (can be on webapp, mobile apps or desktop app) and give feedback on anything they think doesn’t make sense or is difficult to navigate or understand. You can download the desktop and mobile apps here: https://mattermost.com/download/#mattermostApps 
-Exploratory testing assignments can be located here: <link to GitHub issue (containing spreadsheet and instructions)>
+Exploratory testing assignments can be located here: https://github.com/mattermost/quality-assurance/issues/2  (to-do - spreadsheet and instructions)
 
 
 Feature testing (ad-hoc)
 Pre-production features, or features already in production are tested from a feature spec
-Feature testing assignments can be located here: <link to GitHub issue (containing spreadsheet, spec and instructions)>
-
-
+When feature testing assignments are available, they will be located here: https://github.com/mattermost/quality-assurance/issues 
 Release testing
 We test the software on the release branch approximately 2 weeks before release (monthly on the 16th) so we can report any bugs. 
-Release testing assignments can be located here: <link to GitHub issue (containing spreadsheet similar to Test Automation Hackfest spreadsheet and instructions)>
+When release testing assignments are available, they will be located here: https://github.com/mattermost/quality-assurance/issues (to-do spreadsheet similar to Test Automation Hackfest spreadsheet and instructions)
