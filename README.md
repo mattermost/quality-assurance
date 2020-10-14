@@ -17,6 +17,7 @@ Exploratory testing assignments can be located here: https://github.com/mattermo
 Feature testing (ad-hoc)
 Pre-production features, or features already in production are tested from a feature spec
 When feature testing assignments are available, they will be located here: https://github.com/mattermost/quality-assurance/issues 
+
 Release testing
 We test the software on the release branch approximately 2 weeks before release (monthly on the 16th) so we can report any bugs. 
 When release testing assignments are available, they will be located here: https://github.com/mattermost/quality-assurance/issues (to-do spreadsheet similar to Test Automation Hackfest spreadsheet and instructions)
