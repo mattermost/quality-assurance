@@ -1,6 +1,6 @@
 # Mattermost Quality Assurance Community
 
-## A place for like-minded quality assurance people to come together to help test Mattermost’s software
+### A place for like-minded quality assurance people to come together to help test Mattermost’s software
 
 If you like breaking software, have a keen eye for UI-related bugs and want to help report your findings, here’s how you can join our testing community. You can find help and more information in the following places:
 
@@ -8,22 +8,22 @@ If you like breaking software, have a keen eye for UI-related bugs and want to h
 * Forum post <link> (to do)
 * Blog post <link> (to do)
 
-## There are a few ways the community can get involved with testing
+### There are a few ways the community can get involved with testing
 
-### Exploratory testing
+#### Exploratory testing
 
 This is where testers explore the software (can be on webapp, mobile apps, or desktop app) and give feedback on anything they think doesn’t make sense or is difficult to navigate or understand. You can download the desktop and mobile apps [here](https://mattermost.com/download/#mattermostApps).  
 
 * Exploratory testing assignments can be located [here](https://github.com/mattermost/quality-assurance/issues/2).
 
-### Feature testing (ad-hoc)
+#### Feature testing (ad-hoc)
 
 Pre-production features, or features already in production are tested from a feature spec. 
 
 * When feature testing assignments are available, they will be located [here](https://github.com/mattermost/quality-assurance/issues). 
 * The GitHub issue will be clearly headed “Pre-production / Production Feature testing” and will include instructions and a spreadsheet for your feedback.
 
-### Release testing
+#### Release testing
 
 We test the software on the release branch approximately 2 weeks before release (monthly on the 16th) so we can report any bugs. 
 
