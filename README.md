@@ -8,7 +8,7 @@ If you like breaking software, have a keen eye for UI-related bugs and want to h
 * Forum post <link> (to do)
 * Blog post <link> (to do)
 
-### There are a few ways the community can get involved with testing
+### Here's how you can make an impact
 
 #### Exploratory testing
 
