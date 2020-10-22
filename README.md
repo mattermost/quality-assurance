@@ -1,6 +1,6 @@
 # Mattermost Quality Assurance Community
 
-## A place for like-minded quality assurance people to come together to help test Mattermost’s software.
+## A place for like-minded quality assurance people to come together to help test Mattermost’s software
 
 If you like breaking software, have a keen eye for UI-related bugs and want to help report your findings, here’s how you can join our testing community. You can find help and more information in the following places:
 
@@ -8,7 +8,7 @@ If you like breaking software, have a keen eye for UI-related bugs and want to h
 * Forum post <link> (to do)
 * Blog post <link> (to do)
 
-## There are a few ways the community can get involved with testing:
+## There are a few ways the community can get involved with testing
 
 ### Exploratory testing
 
