@@ -1,4 +1,4 @@
-# [README.md](https://github.com/mattermost/quality-assurance)
+# Mattermost Quality Assurance Community
 
 ## A place for like-minded quality assurance people to come together to help test Mattermost’s software.
 
