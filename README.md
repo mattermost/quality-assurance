@@ -36,6 +36,6 @@ We test the software on the release branch approximately 2 weeks before release 
 |--------|----------------|-------|
 | Level 1 - Fan | Someone who has participated in exploratory, release or feature testing and completed valid and detailed feedback | Stickers / Socks |
 | Level 2 - Champion | Someone who, apart from participating in testing, also gets involved on the community server and forum (answering questions, repro'ing bug reports, etc) as well as contributing to QA documentation | QA mug |
-| Level 3 - Guru | Someone who has surpassed level 2 and who we are considering as a core QA contributor (similar to how we award dev contributors with "core contributor" status) | QA t-shirt |
+| Level 3 - Guru | Someone who has surpassed level 2 and who we are considering as a core QA contributor (similar to how we award dev contributors with "core contributor" status) | QA <br />t-shirt |
 
 In addition, anyone who reports a valid bug that is not a known issue, will receive a [Bug Hunter coin](https://www.youtube.com/watch?v=7D6FJsdE_aY).
