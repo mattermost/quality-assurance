@@ -41,6 +41,6 @@ We test the software on the release branch approximately 2 weeks before release 
 
 In addition, anyone who reports a valid bug that is not a known issue, will receive a [Bug Hunter coin](https://www.youtube.com/watch?v=7D6FJsdE_aY).
 
-## Contributor Wall of Fame
+## Contributor Hall of Fame
 
-If you successfully complete a testing assignment and provide valid feedback, your name will be included on the [Contributor Wall of Fame](https://developers.mattermost.com/contribute/team_contributions/)
+If you successfully complete a testing assignment and provide valid feedback, your name will be included on the [Contributor Hall of Fame](https://developers.mattermost.com/contribute/team_contributions/)
