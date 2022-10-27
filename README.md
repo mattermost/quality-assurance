@@ -4,8 +4,8 @@
 
 If you like breaking software, have a keen eye for UI-related bugs and want to help report your findings, here’s how you can join our testing community. You can find help and more information in the following places:
 
-* Join our [Contributors server](https://community-release.mattermost.com/signup_user_complete/?id=codoy5s743rq5mk18i7u5ksz7e)
-* Join the [~QA: Contributors channel](https://community-release.mattermost.com/core/channels/qa-contributors) on the Contributors server
+* Join our [Contributors server](https://community.mattermost.com/signup_user_complete/?id=codoy5s743rq5mk18i7u5ksz7e&sbr=sa)
+* Join the [~QA: Contributors channel](https://community.mattermost.com/core/channels/qa-contributors) on the Contributors server
 * [Forum post](https://forum.mattermost.org/t/help-test-mattermost-s-apps/10630)
 * [Blog post](https://mattermost.com/blog/mattermost-launches-qa-contributor-program/)
 
