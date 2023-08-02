@@ -40,7 +40,3 @@ We test the software on the release branch approximately 2 weeks before release 
 | Level 3 - Guru | Someone who has surpassed level 2 and who we are considering as a core QA contributor (similar to how we award dev contributors with "core contributor" status) | QA <br />t-shirt |
 
 In addition, anyone who reports a valid bug that is not a known issue, will receive a [Bug Hunter coin](https://www.youtube.com/watch?v=7D6FJsdE_aY).
-
-## Contributor Hall of Fame
-
-If you successfully complete a testing assignment and provide valid feedback, your name will be included on the [Contributor Hall of Fame](https://developers.mattermost.com/contribute/team_contributions/)
